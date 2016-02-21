@@ -1,0 +1,8 @@
+
+*foreground:#ff0080
+URxvt*background:rgba:0000/0000/0000/cccc
+URxvt*font: xft:Inconsolata:size=13
+URxvt.transparent: true
+URxvt.shading: 50
+URxvt.scrollBar:false
+*antialias: true
